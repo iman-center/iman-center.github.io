@@ -1,0 +1,32 @@
+{
+  "Fajr": {
+    "isFixed": false,
+    "minutes": 20,
+    "exactTime": ""
+  },
+  "Sunrise": {
+    "isFixed": true,
+    "minutes": -1,
+    "exactTime": ""
+  },
+  "Dhuhr": {
+    "isFixed": true,
+    "minutes": -1,
+    "exactTime": "12: 30PM"
+  },
+  "Asr": {
+    "isFixed": true,
+    "minutes": -1,
+    "exactTime": "03: 00PM"
+  },
+  "Maghrib": {
+    "isFixed": false,
+    "minutes": 10,
+    "exactTime": ""
+  },
+  "Isha": {
+    "isFixed": false,
+    "minutes": 10,
+    "exactTime": ""
+  }
+}
