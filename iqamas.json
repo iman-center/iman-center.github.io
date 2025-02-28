@@ -15,9 +15,9 @@
     "exactTime": "12:30 PM"
   },
   "Asr": {
-    "isFixed": true,
-    "minutes": -1,
-    "exactTime": "03:30 PM"
+    "isFixed": false,
+    "minutes": 10,
+    "exactTime": ""
   },
   "Maghrib": {
     "isFixed": false,
