@@ -12,7 +12,7 @@
   "Dhuhr": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "01:30 PM"
+    "exactTime": "12:15 PM"
   },
   "Asr": {
     "isFixed": false,
