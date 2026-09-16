@@ -1,0 +1,1 @@
+function i(){return globalThis.Capacitor?.isNativePlatform?.()===!0}export{i as t};
