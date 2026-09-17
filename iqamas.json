@@ -2,41 +2,49 @@
   "Fajr": {
     "isFixed": false,
     "minutes": 20,
-    "exactTime": ""
+    "exactTime": "",
+    "followsDaylightSaving": true
   },
   "Sunrise": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": ""
+    "exactTime": "",
+    "followsDaylightSaving": false
   },
   "Dhuhr": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "01:30 PM"
+    "exactTime": "01:30 PM",
+    "followsDaylightSaving": true
   },
   "Asr": {
     "isFixed": false,
     "minutes": 10,
-    "exactTime": ""
+    "exactTime": "",
+    "followsDaylightSaving": true
   },
   "Maghrib": {
     "isFixed": false,
     "minutes": 10,
-    "exactTime": ""
+    "exactTime": "",
+    "followsDaylightSaving": true
   },
   "Isha": {
     "isFixed": false,
     "minutes": 10,
-    "exactTime": ""
+    "exactTime": "",
+    "followsDaylightSaving": true
   },
   "First Khutba": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "12:30 PM"
+    "exactTime": "12:30 PM",
+    "followsDaylightSaving": false
   },
   "Second Khutba": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "01:30 PM"
+    "exactTime": "01:30 PM",
+    "followsDaylightSaving": false
   }
 }
