@@ -18,9 +18,9 @@
     "followsDaylightSaving": true
   },
   "Asr": {
-    "isFixed": false,
-    "minutes": 10,
-    "exactTime": "",
+    "isFixed": true,
+    "minutes": -1,
+    "exactTime": "04:00 PM",
     "followsDaylightSaving": true
   },
   "Maghrib": {
