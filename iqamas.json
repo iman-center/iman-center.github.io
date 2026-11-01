@@ -14,13 +14,13 @@
   "Dhuhr": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "01:30 PM",
+    "exactTime": "12:30 PM",
     "followsDaylightSaving": true
   },
   "Asr": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "04:00 PM",
+    "exactTime": "03:00 PM",
     "followsDaylightSaving": true
   },
   "Maghrib": {
