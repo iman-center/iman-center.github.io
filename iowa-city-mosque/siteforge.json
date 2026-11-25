@@ -1,0 +1,2815 @@
+{
+  "siteforge": 1,
+  "kind": "site",
+  "id": "site1w0wd2f193z",
+  "exportedAt": "2026-11-25T04:18:13.356Z",
+  "content": {
+    "name": "Iowa City Mosque",
+    "theme": {
+      "colors": {
+        "white": "#fbf8f2",
+        "light": "#f1eadb",
+        "dark": "#0c2a20",
+        "primary": "#1d5a43",
+        "accent": "#c99a3e"
+      },
+      "headingFont": "Libre Baskerville",
+      "bodyFont": "Almarai",
+      "buttonFont": "Almarai",
+      "baseSize": 16,
+      "headingScale": 1,
+      "headingWeight": 400,
+      "buttonShape": "pill",
+      "maxWidth": 1200,
+      "radius": 16
+    },
+    "header": {
+      "logoText": "Iowa City Mosque",
+      "logoImage": "/samples/iowa-city-mosque-logo.png",
+      "logoHeight": 52,
+      "logoShowText": true,
+      "logoTile": true,
+      "logoTagline": "Al-Iman Center of Iowa",
+      "showNav": true,
+      "extraLinks": [],
+      "ctaLabel": "Donate",
+      "ctaHref": "/donate",
+      "ctaStyle": "accent",
+      "theme": "auto",
+      "sticky": true,
+      "layout": "left"
+    },
+    "footer": {
+      "id": "s1203gimix9h",
+      "theme": "dark",
+      "rows": 9,
+      "padTop": 72,
+      "padBottom": 40,
+      "blocks": [
+        {
+          "id": "b1wb7yxh5ff3",
+          "type": "text",
+          "d": {
+            "x": 0,
+            "y": 0,
+            "w": 9,
+            "h": 7
+          },
+          "props": {
+            "html": "<p><img src=\"/samples/iowa-city-mosque-logo.png\" alt=\"Masjid Al-Iman — Al-Iman Center of Iowa\" width=\"96\" height=\"96\" style=\"display:block;background:var(--c-white);padding:8px;border-radius:18px\"></p><h3 style=\"font-size:1.6em;margin-bottom:.2em\">Iowa City Mosque</h3><p class=\"sf-arabic sf-sm\" dir=\"rtl\" lang=\"ar\" style=\"text-align:left\">مسجد الإيمان</p><p class=\"sf-small\">Al-Iman Center of Iowa, Inc. — a non-profit organization serving the Muslim community of Iowa City, Coralville and North Liberty.</p>"
+          },
+          "style": {}
+        },
+        {
+          "id": "bc6osdx1i8q",
+          "type": "text",
+          "d": {
+            "x": 10,
+            "y": 0,
+            "w": 6,
+            "h": 7
+          },
+          "props": {
+            "html": "<p class=\"sf-label\">Visit &amp; contact</p><p class=\"sf-facts\" style=\"flex-direction:column;gap:.8em\"><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z\"/><circle cx=\"12\" cy=\"9.5\" r=\"2.5\"/></svg><a href=\"https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246\" target=\"_blank\" rel=\"noopener\">1812 W Benton St<br>Iowa City, IA 52246</a></span><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A17 17 0 0 1 3 5a2 2 0 0 1 2-2z\"/></svg><a href=\"tel:+13193546167\">(319) 354-6167</a></span><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M3 7l9 6 9-6\"/></svg><a href=\"mailto:info@iowacitymosque.org\">info@iowacitymosque.org</a></span></p>"
+          },
+          "style": {}
+        },
+        {
+          "id": "b1rtiv8m15bw",
+          "type": "text",
+          "d": {
+            "x": 17,
+            "y": 0,
+            "w": 7,
+            "h": 1
+          },
+          "props": {
+            "html": "<p class=\"sf-label\">Quick links</p>"
+          },
+          "style": {}
+        },
+        {
+          "id": "b5em0ia831m",
+          "type": "menu",
+          "d": {
+            "x": 17,
+            "y": 1,
+            "w": 7,
+            "h": 6
+          },
+          "props": {
+            "mode": "nav",
+            "orientation": "vertical",
+            "usePages": false,
+            "links": [
+              {
+                "label": "Prayer Times",
+                "href": "/prayer-times",
+                "newTab": false
+              },
+              {
+                "label": "Lessons",
+                "href": "/lessons",
+                "newTab": false
+              },
+              {
+                "label": "Weekend School",
+                "href": "/weekend-school",
+                "newTab": false
+              },
+              {
+                "label": "Donate",
+                "href": "/donate",
+                "newTab": false
+              },
+              {
+                "label": "Islamic Resources",
+                "href": "/resources",
+                "newTab": false
+              },
+              {
+                "label": "YouTube",
+                "href": "https://www.youtube.com/@iowacitymosque384/",
+                "newTab": true
+              }
+            ],
+            "menuText": "## Starters\nSoup of the day | Ask your server | 6\nGarden salad | Fresh greens, vinaigrette | 8\n## Mains\nGrilled fish | Lemon, herbs, rice | 18",
+            "currency": "$"
+          },
+          "style": {
+            "fontScale": 0.95
+          }
+        },
+        {
+          "id": "bdji5251m1i",
+          "type": "line",
+          "d": {
+            "x": 0,
+            "y": 7,
+            "w": 24,
+            "h": 1
+          },
+          "props": {
+            "orientation": "horizontal",
+            "lineStyle": "solid",
+            "thickness": 1,
+            "color": "color-mix(in srgb, currentColor 18%, transparent)"
+          },
+          "style": {}
+        },
+        {
+          "id": "bd70uyr1xws",
+          "type": "text",
+          "d": {
+            "x": 0,
+            "y": 8,
+            "w": 12,
+            "h": 1
+          },
+          "props": {
+            "html": "<p class=\"sf-small\">© Al-Iman Center of Iowa, Inc. · Tax ID 42-1521918</p>"
+          },
+          "style": {}
+        },
+        {
+          "id": "b1gukzfd4bu4",
+          "type": "links",
+          "d": {
+            "x": 12,
+            "y": 8,
+            "w": 12,
+            "h": 1
+          },
+          "props": {
+            "layout": "inline",
+            "columns": 3,
+            "items": [
+              {
+                "title": "Android app",
+                "url": "https://play.google.com/store/apps/details?id=com.github.imancenter",
+                "description": "",
+                "newTab": true
+              },
+              {
+                "title": "iPhone app",
+                "url": "https://apps.apple.com/us/app/iman-center/id6808058182",
+                "description": "",
+                "newTab": true
+              },
+              {
+                "title": "Live on Mixlr",
+                "url": "http://mixlr.com/iowacitymosque",
+                "description": "",
+                "newTab": true
+              }
+            ]
+          },
+          "style": {
+            "fontScale": 0.85,
+            "align": "right"
+          }
+        }
+      ],
+      "pattern": "girih",
+      "patternOpacity": 0.04
+    },
+    "pages": [
+      {
+        "id": "pzb82wf1quh",
+        "title": "Home",
+        "slug": "",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "sfbcy7l9kkq",
+            "theme": "white",
+            "rows": 25,
+            "padTop": 24,
+            "padBottom": 24,
+            "blocks": [
+              {
+                "id": "b1dtucye1y3j",
+                "type": "image",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 24,
+                  "h": 25
+                },
+                "props": {
+                  "src": "asset:afsn1ecfo5e",
+                  "alt": "",
+                  "fit": "contain",
+                  "href": "",
+                  "caption": "",
+                  "newTab": false
+                },
+                "style": {},
+                "m": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 8,
+                  "h": 8
+                }
+              }
+            ],
+            "name": "Image",
+            "mobileRows": 8
+          },
+          {
+            "id": "svvvc92uydd",
+            "theme": "dark",
+            "rows": 21,
+            "padTop": 48,
+            "padBottom": 72,
+            "blocks": [
+              {
+                "id": "b1610nwx8qib",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 1,
+                  "w": 13,
+                  "h": 12
+                },
+                "props": {
+                  "html": "<p class=\"sf-quran sf-bismillah\" dir=\"rtl\" lang=\"ar\">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</p><h1>Al-Iman Center&nbsp;<br>(Iowa City mosque)</h1><p class=\"sf-lead\">of Iowa has served Muslims in Iowa City, Coralville, North Liberty and the surrounding area for over 27 years. All are welcome.</p>"
+                },
+                "style": {
+                  "vAlign": "end"
+                },
+                "m": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 8,
+                  "h": 12
+                }
+              },
+              {
+                "id": "b12jofpf1tg6",
+                "type": "button",
+                "d": {
+                  "x": 0,
+                  "y": 14,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Plan your visit",
+                  "href": "https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246",
+                  "newTab": true,
+                  "variant": "accent",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {},
+                "m": {
+                  "x": 0,
+                  "y": 13,
+                  "w": 8,
+                  "h": 2
+                }
+              },
+              {
+                "id": "b4ss6duz1vo",
+                "type": "button",
+                "d": {
+                  "x": 5,
+                  "y": 14,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Weekly lessons",
+                  "href": "/lessons",
+                  "newTab": false,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {},
+                "m": {
+                  "x": 0,
+                  "y": 15,
+                  "w": 8,
+                  "h": 2
+                }
+              },
+              {
+                "id": "bdnslh41019",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 17,
+                  "w": 12,
+                  "h": 3
+                },
+                "props": {
+                  "html": "<p class=\"sf-facts\"><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z\"/><circle cx=\"12\" cy=\"9.5\" r=\"2.5\"/></svg><a href=\"https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246\" target=\"_blank\" rel=\"noopener\">1812 W Benton St, Iowa City, IA 52246</a></span><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A17 17 0 0 1 3 5a2 2 0 0 1 2-2z\"/></svg><a href=\"tel:+13193546167\">(319) 354-6167</a></span></p>"
+                },
+                "style": {},
+                "m": {
+                  "x": 0,
+                  "y": 18,
+                  "w": 8,
+                  "h": 3
+                }
+              },
+              {
+                "id": "b1asjsswfbc5",
+                "type": "embed",
+                "d": {
+                  "x": 13,
+                  "y": 0,
+                  "w": 11,
+                  "h": 21
+                },
+                "props": {
+                  "mode": "url",
+                  "url": "https://iman-center.github.io/",
+                  "html": "<div style=\"font-family:sans-serif;padding:16px\">Custom HTML</div>",
+                  "title": "Iowa City Mosque prayer times",
+                  "rounded": true
+                },
+                "style": {
+                  "bg": "#000",
+                  "padding": 8,
+                  "radius": 24,
+                  "shadow": "lg"
+                },
+                "m": {
+                  "x": 0,
+                  "y": 22,
+                  "w": 8,
+                  "h": 23
+                }
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07,
+            "name": "Hero"
+          },
+          {
+            "id": "sdfnsgqqpf0",
+            "theme": "light",
+            "rows": 4,
+            "padTop": 32,
+            "padBottom": 32,
+            "blocks": [
+              {
+                "id": "b904nuu1lhl",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 13,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<div style=\"display:flex;gap:1.1em;align-items:center\"><p class=\"sf-icon\" style=\"margin:0;flex:none\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"6\" y=\"2.5\" width=\"12\" height=\"19\" rx=\"2.5\"></rect><path d=\"M10.5 18.5h3\"></path></svg></p><div><h3 style=\"margin:0 0 .15em;font-size:1.5em\">Prayer times&nbsp;app</h3></div></div>"
+                },
+                "style": {
+                  "vAlign": "center"
+                }
+              },
+              {
+                "id": "b14mj6sz1kb3",
+                "type": "button",
+                "d": {
+                  "x": 14,
+                  "y": 1,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Get it on Android",
+                  "href": "https://play.google.com/store/apps/details?id=com.github.imancenter",
+                  "newTab": true,
+                  "variant": "primary",
+                  "size": "sm",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1fafwso13io",
+                "type": "button",
+                "d": {
+                  "x": 19,
+                  "y": 1,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Download for iPhone",
+                  "href": "https://apps.apple.com/us/app/iman-center/id6808058182",
+                  "newTab": true,
+                  "variant": "primary",
+                  "size": "sm",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ],
+            "name": "App strip"
+          },
+          {
+            "id": "s1qy3komcfru",
+            "theme": "light",
+            "rows": 21,
+            "padTop": 88,
+            "padBottom": 88,
+            "blocks": [
+              {
+                "id": "b1glufx21bjw",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 5
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">New to Islam?</span></p><h2 style=\"text-align:center\">An Invitation to Islam: The Path to True Success</h2>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b55w05y1wdz",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 6,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">The purpose of existence</p><p class=\"sf-quran\" dir=\"rtl\" lang=\"ar\">وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ ٥٦</p><p class=\"sf-ayah-en\">“And I did not create the jinn and mankind except to worship Me.”</p><p class=\"sf-ayah-ref\"><a href=\"https://quran.com/51/56\" target=\"_blank\" rel=\"noopener\">Qur’an 51:56</a> · Saheeh International</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20
+                }
+              },
+              {
+                "id": "b8280so1qug",
+                "type": "text",
+                "d": {
+                  "x": 8,
+                  "y": 6,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">The call to pure monotheism (Tawheed)</p><p class=\"sf-quran\" dir=\"rtl\" lang=\"ar\">إِنَّ ٱللَّهَ لَا يَغۡفِرُ أَن يُشۡرَكَ بِهِۦ وَيَغۡفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَقَدِ ٱفۡتَرَىٰٓ إِثۡمًا عَظِيمًا ٤٨</p><p class=\"sf-ayah-en\">“Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly fabricated a tremendous sin.”</p><p class=\"sf-ayah-ref\"><a href=\"https://quran.com/4/48\" target=\"_blank\" rel=\"noopener\">Qur’an 4:48</a> · Saheeh International</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20
+                }
+              },
+              {
+                "id": "bdekaiq17fp",
+                "type": "text",
+                "d": {
+                  "x": 16,
+                  "y": 6,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">Obey Allah and His Messenger ﷺ</p><p class=\"sf-quran\" dir=\"rtl\" lang=\"ar\">يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا ٥٩</p><p class=\"sf-ayah-en\">“O you who have believed, obey Allāh and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allāh and the Messenger, if you should believe in Allāh and the Last Day. That is the best [way] and best in result.”</p><p class=\"sf-ayah-ref\"><a href=\"https://quran.com/4/59\" target=\"_blank\" rel=\"noopener\">Qur’an 4:59</a> · Saheeh International</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20
+                }
+              },
+              {
+                "id": "bv8fklv1ugj",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 17,
+                  "w": 18,
+                  "h": 2
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\">Curious about Islam or interested in becoming Muslim? We’d love to connect. Email <a href=\"mailto:dawah@iowacitymosque.org\">dawah@iowacitymosque.org</a> — we’re happy to answer your questions over a friendly conversation.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bzbaa8n1hi5",
+                "type": "button",
+                "d": {
+                  "x": 5,
+                  "y": 19,
+                  "w": 7,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Email our dawah team",
+                  "href": "mailto:dawah@iowacitymosque.org",
+                  "newTab": false,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1igm56hciao",
+                "type": "button",
+                "d": {
+                  "x": 12,
+                  "y": 19,
+                  "w": 7,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Listen: Fundamental Beliefs",
+                  "href": "https://www.spreaker.com/show/fundamental-beliefs-of-al-islaam",
+                  "newTab": true,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "girih",
+            "patternOpacity": 0.05,
+            "name": "Invitation"
+          },
+          {
+            "id": "s1uuoi041xsw",
+            "theme": "white",
+            "rows": 12,
+            "padTop": 88,
+            "padBottom": 88,
+            "blocks": [
+              {
+                "id": "ba3u6av1mz4",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 2
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Lessons &amp; services</h2>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bg1pezddeja",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 3,
+                  "w": 6,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z\"/><path d=\"M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5\"/><path d=\"M9 8h7M9 11.5h5\"/></svg></p><h3>Weekly Lessons</h3><p>Qur’an recitation, tafsir and hadith study for brothers and sisters, in English &amp; Arabic.</p><p><a class=\"sf-more sf-stretch\" href=\"/lessons\">See the schedule <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bxe06dx1i1p",
+                "type": "text",
+                "d": {
+                  "x": 6,
+                  "y": 3,
+                  "w": 6,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M2 9l10-5 10 5-10 5z\"/><path d=\"M6 11v5c0 1.7 2.7 3 6 3s6-1.3 6-3v-5\"/><path d=\"M22 9v6\"/></svg></p><h3>Weekend School</h3><p>Nurturing a love for the masjid and a strong Islamic identity in our children.</p><p><a class=\"sf-more sf-stretch\" href=\"/weekend-school\">Enroll your child <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1wxtyje1k9e",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 3,
+                  "w": 6,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 19c0-8 5-14 15-15-1 10-7 15-15 15z\"/><path d=\"M5 19l7-7\"/></svg></p><h3>Al-Iman Cemetery</h3><p>A dignified resting place, run according to Islamic law and local regulations.</p><p><a class=\"sf-more sf-stretch\" href=\"/cemetery\">Policies &amp; procedures <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b2wd8nxs39d",
+                "type": "text",
+                "d": {
+                  "x": 18,
+                  "y": 3,
+                  "w": 6,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18\"/></svg></p><h3>Islamic Resources</h3><p>Trusted links to the Qur’an, authentic hadith collections and daily adhkar.</p><p><a class=\"sf-more sf-stretch\" href=\"/resources\">Browse resources <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ],
+            "name": "Programs"
+          },
+          {
+            "id": "s1vshf161chq",
+            "theme": "white",
+            "rows": 10,
+            "padTop": 88,
+            "padBottom": 88,
+            "blocks": [
+              {
+                "id": "bs8r3qyisnd",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 10,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p><span class=\"sf-tag\">Learn with us</span></p><h2>Grow in knowledge, every week</h2><p>Lessons are held at the masjid and streamed live, so you can join in person or listen from anywhere.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1rr4fpgxcue",
+                "type": "button",
+                "d": {
+                  "x": 0,
+                  "y": 8,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "All lessons",
+                  "href": "/lessons",
+                  "newTab": false,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1pbx3ba1njz",
+                "type": "button",
+                "d": {
+                  "x": 5,
+                  "y": 8,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Watch on YouTube",
+                  "href": "https://www.youtube.com/@iowacitymosque384/",
+                  "newTab": true,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "bnz3g9l1ppi",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 0,
+                  "w": 12,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">This week at the masjid</p><ul class=\"sf-sched\"><li><div><b>Qur’an Recitation</b><small>Recitation &amp; memorization</small></div><span>Fridays after Isha</span></li><li><div><b>Qur’an Tafsir</b><small>Explanation of the Qur’an</small></div><span>Sat &amp; Sun after Isha</span></li><li><div><b>Umdat Al-Ahkam</b><small>Short series on hadith</small></div><span>Mon – Wed</span></li></ul>"
+                },
+                "style": {
+                  "theme": "dark",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "md"
+                }
+              }
+            ],
+            "name": "Lessons"
+          },
+          {
+            "id": "s1kzehc012lp",
+            "theme": "primary",
+            "rows": 9,
+            "padTop": 88,
+            "padBottom": 88,
+            "blocks": [
+              {
+                "id": "b1moimy1w3y",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-ornament\" aria-hidden=\"true\">✦</p><h2 style=\"text-align:center\">Continue your support of the masjid</h2><p class=\"sf-lead\" style=\"text-align:center\">“Whoever builds a masjid for Allah, Allah will build for him a house like it in Paradise.”</p><p class=\"sf-small\" style=\"text-align:center\">Sahih al-Bukhari &amp; Muslim · <strong>Zelle:</strong> info@iowacitymosque.org</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bwg45fe1jw2",
+                "type": "button",
+                "d": {
+                  "x": 6,
+                  "y": 7,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Donate with PayPal",
+                  "href": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A7CKKFZ3AGTEL",
+                  "newTab": true,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b47mqa21n0o",
+                "type": "button",
+                "d": {
+                  "x": 12,
+                  "y": 7,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Ways to donate",
+                  "href": "/donate",
+                  "newTab": false,
+                  "variant": "accent",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.1,
+            "name": "Donate"
+          }
+        ],
+        "seoDescription": "Iowa City Mosque (Al-Iman Center of Iowa) — prayer times, lessons, weekend school and community services in Iowa City."
+      },
+      {
+        "id": "pvac6rehxzx",
+        "title": "Prayer Times",
+        "slug": "prayer-times",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "s72n6hymojn",
+            "theme": "dark",
+            "rows": 27,
+            "padTop": 64,
+            "padBottom": 72,
+            "blocks": [
+              {
+                "id": "boaurnz1bdy",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 5
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">Daily salah</span></p><h1 style=\"text-align:center\">Prayer Times</h1><p style=\"text-align:center\">Adhan and iqamah times for today, including Jumu’ah khutbahs.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b155vosza1de",
+                "type": "embed",
+                "d": {
+                  "x": 5,
+                  "y": 6,
+                  "w": 14,
+                  "h": 21
+                },
+                "props": {
+                  "mode": "url",
+                  "url": "https://iman-center.github.io/",
+                  "html": "<div style=\"font-family:sans-serif;padding:16px\">Custom HTML</div>",
+                  "title": "Iowa City Mosque prayer times",
+                  "rounded": true
+                },
+                "style": {
+                  "bg": "#000",
+                  "padding": 8,
+                  "radius": 24,
+                  "shadow": "lg"
+                }
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "sarpsn31mxc",
+            "theme": "white",
+            "rows": 2,
+            "padTop": 40,
+            "padBottom": 40,
+            "blocks": [
+              {
+                "id": "brhaykv1oed",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 1,
+                  "w": 14,
+                  "h": 1
+                },
+                "props": {
+                  "html": "<h3 style=\"margin: 0px 0px 0.15em; font-size: 1.5em;\">Prayer times&nbsp;app</h3>"
+                },
+                "style": {
+                  "vAlign": "center"
+                }
+              },
+              {
+                "id": "bny7evm1d4f",
+                "type": "button",
+                "d": {
+                  "x": 14,
+                  "y": 1,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Android app",
+                  "href": "https://play.google.com/store/apps/details?id=com.github.imancenter",
+                  "newTab": true,
+                  "variant": "primary",
+                  "size": "sm",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1fmicll17ev",
+                "type": "button",
+                "d": {
+                  "x": 19,
+                  "y": 1,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "iPhone app",
+                  "href": "https://apps.apple.com/us/app/iman-center/id6808058182",
+                  "newTab": true,
+                  "variant": "primary",
+                  "size": "sm",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": "s1tpgz1zun27",
+            "theme": "light",
+            "rows": 15,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b6l6rjsvs0n",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 1,
+                  "w": 8,
+                  "h": 9
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z\"/><circle cx=\"12\" cy=\"9.5\" r=\"2.5\"/></svg></p><p class=\"sf-label\">Find us</p><h2>Visit the masjid</h2><p>1812 West Benton Street<br>Iowa City, IA 52246</p><p><a href=\"tel:+13193546167\">(319) 354-6167</a><br><a href=\"mailto:info@iowacitymosque.org\">info@iowacitymosque.org</a></p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "buiaqrzq7xv",
+                "type": "button",
+                "d": {
+                  "x": 0,
+                  "y": 11,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Get directions",
+                  "href": "https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246",
+                  "newTab": true,
+                  "variant": "accent",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "brr0fwy1vn8",
+                "type": "map",
+                "d": {
+                  "x": 9,
+                  "y": 0,
+                  "w": 15,
+                  "h": 15
+                },
+                "props": {
+                  "address": "Iowa City Mosque, 1812 W Benton St, Iowa City, IA 52246",
+                  "zoom": 15,
+                  "mapType": "roadmap"
+                },
+                "style": {
+                  "radius": 20,
+                  "shadow": "md"
+                }
+              }
+            ]
+          },
+          {
+            "id": "s115ytybtnc7",
+            "theme": "white",
+            "rows": 13,
+            "padTop": 40,
+            "padBottom": 40,
+            "blocks": [
+              {
+                "id": "bn99ejq1vh9",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 12,
+                  "h": 13
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 10l9-6 9 6M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 21h18\"/></svg></p><p class=\"sf-label\">Donation information</p><h3>Support the Masjid</h3><p>All donations are tax exempt. Please make direct deposits, checks, or money orders payable to:</p><p><strong>Iowa City Mosque</strong><br>US Bank Account: 196474662984<br>Tax ID: 42-1521918<br>Al-Iman Center of Iowa City Masjid<br>1812 West Benton Street, Iowa City, IA 52246</p><p><a class=\"sf-more\" href=\"/donate\">All ways to give <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "btafwaa1tkg",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 0,
+                  "w": 12,
+                  "h": 13
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M3 7l9 6 9-6\"/></svg></p><p class=\"sf-label\">Contact &amp; feedback</p><h3>We want to hear from you</h3><p>Your input is important to us. For any comments, concerns, or to request additional information, please contact:</p><p><strong>General inquiries:</strong> <a href=\"mailto:info@iowacitymosque.org\">info@iowacitymosque.org</a></p><p>We aim to respond to all inquiries within 2 business days.</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          }
+        ],
+        "seoDescription": "Daily adhan and iqamah times at Iowa City Mosque, plus directions to the masjid."
+      },
+      {
+        "id": "p1gsjaz01yjg",
+        "title": "Lessons",
+        "slug": "lessons",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "s14hjbuyavve",
+            "theme": "dark",
+            "rows": 7,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "b68pihf1c9z",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">Learn with us</span></p><h1 style=\"text-align:center\">Lessons &amp; Classes</h1><p class=\"sf-lead\" style=\"text-align:center\">Weekly Islamic lessons at Iowa City Mosque. Join us in person, listen live, or watch on YouTube.</p>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "sip15dgaawf",
+            "theme": "light",
+            "rows": 17,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b75fwnhhc0u",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Weekly lessons</h2><p style=\"text-align:center\">Lessons for brothers and sisters. All events are held at the Iowa City Mosque unless otherwise specified.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1k27z8qlo6h",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 4,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Fridays after Isha</p><h3>Qur’an Recitation</h3><p>Learning Qur’an recitation and memorizing the Qur’an.</p><p class=\"sf-small\"><em>Language: English &amp; Arabic</em></p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b17oof1u3ixy",
+                "type": "text",
+                "d": {
+                  "x": 8,
+                  "y": 4,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Sat &amp; Sun after Isha</p><h3>Qur’an Tafsir</h3><p>Weekly lessons on the tafsir (explanation) of the Qur’an for brothers and sisters.</p><p class=\"sf-small\"><em>Language: English &amp; Arabic</em></p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b17kzd1web3r",
+                "type": "text",
+                "d": {
+                  "x": 16,
+                  "y": 4,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Mon, Tue &amp; Wed</p><h3>Umdat Al-Ahkam</h3><p>Short series on the explanation of hadiths from Umdat Al-Ahkam.</p><p class=\"sf-small\"><em>Language: English &amp; Arabic</em></p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1dhkc6s1ekt",
+                "type": "button",
+                "d": {
+                  "x": 9,
+                  "y": 15,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Get directions",
+                  "href": "https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246",
+                  "newTab": true,
+                  "variant": "accent",
+                  "size": "md",
+                  "align": "center"
+                },
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": "sxhirhv1s0o",
+            "theme": "white",
+            "rows": 12,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "bnc4b3g15is",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 10,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"9\" y=\"3\" width=\"6\" height=\"11\" rx=\"3\"></rect><path d=\"M5 11a7 7 0 0 0 14 0M12 18v3\"></path>Lisasdfasdfadf</svg></p><p class=\"sf-label\">Listen live</p><h2>Never miss a lesson</h2><p>Lectures and khutbahs are streamed live from the masjid on Mixlr, and recordings are posted on YouTube.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1aimwhs1fu0",
+                "type": "button",
+                "d": {
+                  "x": 0,
+                  "y": 9,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Watch on YouTube",
+                  "href": "https://www.youtube.com/@iowacitymosque384/",
+                  "newTab": true,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b11e06j4frsv",
+                "type": "button",
+                "d": {
+                  "x": 5,
+                  "y": 9,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Mixlr channel",
+                  "href": "http://mixlr.com/iowacitymosque",
+                  "newTab": true,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b2x18cynwgg",
+                "type": "audio",
+                "d": {
+                  "x": 12,
+                  "y": 1,
+                  "w": 12,
+                  "h": 9
+                },
+                "props": {
+                  "src": "https://mixlr.com/users/6220370/embed",
+                  "title": "Iowa City Mosque on Mixlr",
+                  "artist": ""
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 16,
+                  "radius": 20
+                }
+              }
+            ]
+          }
+        ],
+        "seoDescription": "Weekly Qur’an, tafsir and hadith lessons at Iowa City Mosque, streamed live on Mixlr."
+      },
+      {
+        "id": "pe3rrztzcad",
+        "title": "Weekend School",
+        "slug": "weekend-school",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "s104x5g8qq22",
+            "theme": "dark",
+            "rows": 5,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "bp5i7f118np",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">Children’s education</span></p><h1 style=\"text-align:center\">Weekend School</h1>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "s1b9izurmjzn",
+            "theme": "white",
+            "rows": 11,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "butfqf21b4v",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 11,
+                  "h": 9
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">Introduction</p><h2>Rooted in faith, growing in knowledge</h2><p>Al-Iman Center of Iowa is the central service to parents who would like to nurture in their children the love for the masjid, the attachment to attending it, and the knowledge to strengthen their identity and adherence to correct creed and covenant.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1ioprfy1bx9",
+                "type": "text",
+                "d": {
+                  "x": 13,
+                  "y": 0,
+                  "w": 11,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<p><span class=\"sf-tag\">Enrollment open</span></p><h3>Enroll for the new school year</h3><p>Enrollment is open from <strong>September 4th, 2026</strong> and closes on <strong>October 2nd, 2026</strong>.</p><p>All new <strong>and</strong> returning students must sign up.</p>"
+                },
+                "style": {
+                  "theme": "dark",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "md"
+                }
+              },
+              {
+                "id": "b1kzdzha12ha",
+                "type": "button",
+                "d": {
+                  "x": 13,
+                  "y": 9,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Enroll here",
+                  "href": "https://forms.gle/JAPBCmKkaxgyqruq7",
+                  "newTab": true,
+                  "variant": "accent",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1hheuac1ctp",
+                "type": "button",
+                "d": {
+                  "x": 18,
+                  "y": 9,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Teacher application",
+                  "href": "https://forms.gle/RSy76VyuaeFEt1FW7",
+                  "newTab": true,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": "s1w61eno93vg",
+            "theme": "light",
+            "rows": 12,
+            "padTop": 72,
+            "padBottom": 72,
+            "blocks": [
+              {
+                "id": "b1t6w1lbqqfr",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 12,
+                  "h": 12
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">Attention!</p><h3>Registration reminder</h3><p>A reminder that the school registration is OPEN! We have already had students sign up. The form will not be open for long, so please act fast!</p><p>A reminder that ALL new and returning students MUST sign up. More details on start dates will be posted soon on the masjid website.</p><p><strong>Registration help</strong> will be held at the masjid on Saturday 9/12 at 10 AM for anyone needing assistance filling out the forms.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bj60m6fngda",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 0,
+                  "w": 12,
+                  "h": 12
+                },
+                "props": {
+                  "html": "<p dir=\"rtl\" lang=\"ar\" class=\"sf-label\">تذكير</p><h3 dir=\"rtl\" lang=\"ar\">التسجيل في المدرسة مفتوح الآن!</h3><p dir=\"rtl\" lang=\"ar\">السلام عليكم و رحمة الله</p><p dir=\"rtl\" lang=\"ar\">الحمد لله، بدأ الطلاب بالتسجيل، ونود التنبيه إلى أن التسجيل سيكون متاحًا لفترة محدودة، لذلك نرجو من الجميع المسارعة بالتسجيل.</p><p dir=\"rtl\" lang=\"ar\">جميع الطلاب، سواء الجدد أو المسجلين في السنوات السابقة، مطالبون بالتسجيل.</p><p dir=\"rtl\" lang=\"ar\">سيتم الإعلان قريبًا عن موعد بدء الدراسة وباقي التفاصيل عبر موقع المسجد.</p><p dir=\"rtl\" lang=\"ar\">📍 ولمن يحتاج إلى مساعدة في تعبئة استمارة التسجيل، ستكون هناك مساعدة متوفرة في المسجد يوم السبت 9/12 الساعة 10 صباحًا.</p><p dir=\"rtl\" lang=\"ar\">بارك الله فيكم وجزاكم الله خيرًا.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)",
+                  "align": "right"
+                }
+              }
+            ]
+          },
+          {
+            "id": "skxalj923ib",
+            "theme": "primary",
+            "rows": 9,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1j0z8ip1kfy",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon sf-center\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M3 7l9 6 9-6\"/></svg></p><h2 style=\"text-align:center\">Questions?</h2><p style=\"text-align:center\">All official communications regarding the Weekend School come from <strong>weekendschool@imancenter.net</strong>. Reach the team there anytime.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "buhr8nb11rf",
+                "type": "button",
+                "d": {
+                  "x": 8,
+                  "y": 7,
+                  "w": 8,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Email the Weekend School",
+                  "href": "mailto:weekendschool@imancenter.net",
+                  "newTab": false,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "center"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.1
+          }
+        ],
+        "seoDescription": "Weekend School at Iowa City Mosque — enrollment, teacher applications and registration help."
+      },
+      {
+        "id": "p1akwu619ne",
+        "title": "Cemetery",
+        "slug": "cemetery",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "s1ffpnt3vlh8",
+            "theme": "dark",
+            "rows": 4,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "bh424kk1pz0",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<h1 style=\"text-align:center\">Cemetery Policy &amp; Guidelines</h1>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "s1y2h8an1076",
+            "theme": "white",
+            "rows": 14,
+            "padTop": 72,
+            "padBottom": 64,
+            "blocks": [
+              {
+                "id": "bk96w0d1x88",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<p class=\"sf-lead\" style=\"text-align:center\">The Al-Iman Cemetery, owned by the Al-Iman Center of Iowa Inc. (Iowa City Mosque), is established to provide a dignified and orderly resting place for our Muslim community. Our policies adhere to both Islamic jurisprudence and all applicable county and state regulations.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b56a1vmbcp2",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 5,
+                  "w": 12,
+                  "h": 9
+                },
+                "props": {
+                  "html": "<p class=\"sf-quran\" dir=\"rtl\" lang=\"ar\">كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۖ فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ ١٨٥</p><p class=\"sf-ayah-en\">“Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.”</p><p class=\"sf-ayah-ref\"><a href=\"https://quran.com/3/185\" target=\"_blank\" rel=\"noopener\">Qur’an 3:185</a> · Saheeh International</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20
+                }
+              },
+              {
+                "id": "br708vjocel",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 5,
+                  "w": 12,
+                  "h": 9
+                },
+                "props": {
+                  "html": "<p class=\"sf-quran\" dir=\"rtl\" lang=\"ar\">۞ مِنۡهَا خَلَقۡنَٰكُمۡ وَفِيهَا نُعِيدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً أُخۡرَىٰ ٥٥</p><p class=\"sf-ayah-en\">“From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time.”</p><p class=\"sf-ayah-ref\"><a href=\"https://quran.com/20/55\" target=\"_blank\" rel=\"noopener\">Qur’an 20:55</a> · Saheeh International</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20
+                }
+              }
+            ]
+          },
+          {
+            "id": "slzod7rvzv0",
+            "theme": "light",
+            "rows": 22,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1mqqukfk91g",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 3
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">Overview</span></p><h2 style=\"text-align:center\">Key policy points</h2>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bw08phn1l3l",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 4,
+                  "w": 8,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<h3>Burial privileges</h3><p>Burial is reserved for members of Al-Iman Center of Iowa Inc. (Iowa City Mosque). Eligibility is determined by the testimony of family members and community representatives, with the final determination made by the Cemetery Committee.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1qfu9rldr0b",
+                "type": "text",
+                "d": {
+                  "x": 8,
+                  "y": 4,
+                  "w": 8,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<h3>Maintenance &amp; upkeep</h3><p>The cemetery grounds, burial lots, and related infrastructure are maintained by authorized personnel and contractors in strict compliance with Johnson County and state requirements.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bvo02nq1ngt",
+                "type": "text",
+                "d": {
+                  "x": 16,
+                  "y": 4,
+                  "w": 8,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<h3>Burial process</h3><p>Prior to each burial, a written order and a valid death certificate must be provided. A designated committee member must be present to oversee the process.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bkor3lt18t8",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 12,
+                  "w": 8,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<h3>Memorials &amp; markers</h3><p>Only one marker or headstone per grave is permitted. No additional structures (e.g., tombs or mausoleums) shall be erected without prior written approval by the Cemetery Committee.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b6zzre51o0d",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 12,
+                  "w": 8,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<h3>Operation by donations</h3><p>The cemetery operates solely on donations, and all visitors are expected to abide by posted rules and regulations.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b16uo0fdzv4",
+                "type": "text",
+                "d": {
+                  "x": 2,
+                  "y": 19,
+                  "w": 20,
+                  "h": 1
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><strong>For a complete review of our rules and guidelines, please refer to the full policy document</strong> (updated January 16, 2026).</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1wrzdw415k4",
+                "type": "pdf",
+                "d": {
+                  "x": 8,
+                  "y": 20,
+                  "w": 8,
+                  "h": 2
+                },
+                "props": {
+                  "src": "/samples/al-iman-cemetery-policy-2026-01-16.pdf",
+                  "title": "Al-Iman Cemetery Policy & Guidelines (updated January 16, 2026)",
+                  "display": "button",
+                  "buttonLabel": "Download full policy (PDF)"
+                },
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": "s1f6s3hiid8s",
+            "theme": "white",
+            "rows": 20,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1ljwxup1hs2",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Burial procedures</h2><p style=\"text-align:center\">Our burial procedures are designed to ensure that every interment is conducted respectfully, in compliance with Islamic law, and in accordance with local regulations.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1vssb9s1mqi",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 5,
+                  "w": 12,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Step 1</p><h3>Family / legal representative</h3><p>The family or legal representative is responsible for resolving all legal matters and obtaining the official death certificate.</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b6t9aj11gnq",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 5,
+                  "w": 12,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Step 2</p><h3>Pre-burial requirements</h3><p>A written order must be submitted, containing the deceased’s full name, last residence, date and place of death, and contact details of the next-of-kin.</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b14lmzk65txx",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 11,
+                  "w": 12,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Step 3</p><h3>During the burial</h3><p>A cemetery committee member or designated staff will supervise the burial to ensure strict adherence to Islamic jurisprudence and all applicable county/state guidelines.</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1dytutsfjmo",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 11,
+                  "w": 12,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">Step 4</p><h3>Post-burial</h3><p>Comprehensive records, including a digital map of grave locations, are maintained for public transparency and ongoing management.</p>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1eygyyzf48q",
+                "type": "text",
+                "d": {
+                  "x": 2,
+                  "y": 18,
+                  "w": 20,
+                  "h": 2
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><strong>Burial Application Forms</strong>, which are part of the required documentation, are included within the <em>Burial Procedure and Guidelines for Al-Iman Cemetery</em> document.</p>"
+                },
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": "s1to5xb9gh42",
+            "theme": "light",
+            "rows": 13,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b8uomgm14kv",
+                "type": "text",
+                "d": {
+                  "x": 2,
+                  "y": 0,
+                  "w": 20,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Compliance &amp; city requirements</h2><p style=\"text-align:center\">To fully meet the requirements set by the City of Iowa City and Johnson County, we have implemented the following measures:</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b17lbtfldok4",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 5,
+                  "w": 8,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<h3>Communication &amp; records</h3><ul><li>The cemetery website is regularly updated with complete and accurate public information.</li><li>Point of Contact: designated officials manage inquiries and respond within 2 business days.</li></ul>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bw4380cmrps",
+                "type": "text",
+                "d": {
+                  "x": 8,
+                  "y": 5,
+                  "w": 8,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<h3>Site plan &amp; maintenance</h3><ul><li>A revised site plan is scheduled for completion by June 1, 2025, following a professional survey.</li><li><strong>A complete, publicly accessible record of grave locations and interment details is under development.</strong></li></ul>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b11ofw2f1ma7",
+                "type": "text",
+                "d": {
+                  "x": 16,
+                  "y": 5,
+                  "w": 8,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<h3>Safety &amp; standards</h3><ul><li>All cemetery grounds, including internal roadways, are maintained to the minimum standards specified by the Johnson County Unified Development Ordinance.</li><li>Proper storage and disposal of materials and strict adherence to safety protocols are enforced at all times.</li></ul>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "s1k2eawjdnwj",
+            "theme": "white",
+            "rows": 22,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1wm0t9v1ufa",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 22
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Agreement &amp; certification</h2><p>By proceeding with any burial arrangements at Al-Iman Cemetery, you (the “Applicant”) hereby certify, represent, and agree to the following:</p><ol><li><strong>Adherence to Islamic Law and Cemetery Policies:</strong> All burials shall be conducted in strict accordance with Islamic jurisprudence and the published guidelines of Al-Iman Cemetery, including without limitation: prohibitions against unauthorized innovations (“bid‘ah”) in funeral or burial rites; and restrictions on erecting tombstones, headstones, or any other structures beyond those expressly permitted in our written policy.</li><li><strong>Acknowledgment of Rules and Regulations:</strong> You acknowledge that the policies of Al-Iman Cemetery, including any subsequent updates, form a material part of this agreement. Any violation of these policies may result in corrective action by the Cemetery Committee, for which you may be held responsible. These policies are available for review on this website or upon written request.</li><li><strong>Limitation of Liability:</strong> To the maximum extent permitted by applicable law, you agree that Al-Iman Cemetery, Al-Iman Center of Iowa, Inc., and its officers, directors, volunteers, and agents shall not be liable for any claims arising from your non-adherence to these policies or from any remedial actions taken by the Cemetery Committee.</li><li><strong>Compliance With Local Laws:</strong> You acknowledge that the operation of the cemetery is subject to all relevant county and state regulations. In the event of any legal requirements (including disinterment or environmental mandates), you agree to cooperate fully and assume any costs imposed by such mandates.</li><li><strong>Finality of Agreement:</strong> By completing the cemetery’s burial request forms and/or authorizing a burial at Al-Iman Cemetery, you agree to be bound by the terms of this agreement, which shall be enforceable against you, the deceased’s estate or heirs, and any persons acting on your behalf.</li><li><strong>Burial Application Forms:</strong> All required Burial Application Forms are contained within the “Burial Procedure and Guidelines for Al-Iman Cemetery” document.</li></ol>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 48,
+                  "radius": 20
+                }
+              }
+            ]
+          },
+          {
+            "id": "s16g89l61qiy",
+            "theme": "light",
+            "rows": 13,
+            "padTop": 40,
+            "padBottom": 40,
+            "blocks": [
+              {
+                "id": "bjohvb014uj",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 12,
+                  "h": 13
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 10l9-6 9 6M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 21h18\"/></svg></p><p class=\"sf-label\">Donation information</p><h3>Support the Masjid</h3><p>All donations are tax exempt. Please make direct deposits, checks, or money orders payable to:</p><p><strong>Iowa City Mosque</strong><br>US Bank Account: 196474662984<br>Tax ID: 42-1521918<br>Al-Iman Center of Iowa City Masjid<br>1812 West Benton Street, Iowa City, IA 52246</p><p><a class=\"sf-more\" href=\"/donate\">All ways to give <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bl2ljx1bbp",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 0,
+                  "w": 12,
+                  "h": 13
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M3 7l9 6 9-6\"/></svg></p><p class=\"sf-label\">Contact &amp; feedback</p><h3>We want to hear from you</h3><p>Your input is important to us. For any comments, concerns, or to request additional information, please contact:</p><p><strong>Cemetery:</strong> <a href=\"mailto:cemetery@iowacitymosque.org\">cemetery@iowacitymosque.org</a><br><strong>General inquiries:</strong> <a href=\"mailto:info@iowacitymosque.org\">info@iowacitymosque.org</a></p><p>We aim to respond to all inquiries within 2 business days.</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          }
+        ],
+        "seoDescription": "Al-Iman Cemetery policies, burial procedures and compliance information."
+      },
+      {
+        "id": "p15jli4x1chr",
+        "title": "About",
+        "slug": "about",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "s164wsri1z06",
+            "theme": "dark",
+            "rows": 7,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "b1gfyby87py4",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">About us</span></p><h1 style=\"text-align:center\">Al-Iman Center of Iowa</h1><p class=\"sf-lead\" style=\"text-align:center\">Also known as Masjid Al-Iman and Iowa City Mosque.</p>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "sszsrk16k93",
+            "theme": "white",
+            "rows": 10,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1mt7uo214kq",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 11,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">Our mission</p><h2>What is our mission?</h2><p>Al-Iman Center of Iowa, Inc.’s mission is grounded in the Qur’an and the Sunnah of the Messenger of Allah ﷺ, upon the understanding of the righteous early generations (the Salaf), through knowledge, practice, and teaching.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1cg0aoz1l42",
+                "type": "text",
+                "d": {
+                  "x": 13,
+                  "y": 0,
+                  "w": 11,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<h3>Our activities</h3><p>The activities of Al-Iman Center of Iowa include, but are not limited to, the following:</p><ol><li>Conduct religious services</li><li>Host seminars with renowned teachers of Islamic Studies</li><li>Hold engaging events for youth and families</li><li>Disseminate Islamic education through our Weekend School program</li></ol>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sn15cu6n319",
+            "theme": "primary",
+            "rows": 7,
+            "padTop": 88,
+            "padBottom": 88,
+            "blocks": [
+              {
+                "id": "bnvorwugntk",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p class=\"sf-ornament\" aria-hidden=\"true\">✦</p><h2 style=\"text-align:center\">Over 27 years of service</h2><p class=\"sf-lead\" style=\"text-align:center\">For over 27 years, Masjid Al-Iman has served the growing Muslim community of Iowa City, Coralville, North Liberty and the surrounding area by providing a place for the worship of Allah (SWT).</p>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.1
+          },
+          {
+            "id": "su4h2grqy1y",
+            "theme": "light",
+            "rows": 10,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1fnf1gk1w6s",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 4
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Organization</h2><p style=\"text-align:center\">Al-Iman Center of Iowa, Inc. is a non-membership, non-profit organization and is open to all Muslims. The leadership team consists of the following bodies:</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bqq1kk3cuhv",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 5,
+                  "w": 8,
+                  "h": 5
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">A</p><h3>Board of Trustees</h3><p>Dr. Omar Shaban (President)</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "brki5in1ba5",
+                "type": "text",
+                "d": {
+                  "x": 8,
+                  "y": 5,
+                  "w": 8,
+                  "h": 5
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">B</p><h3>Imam</h3><p>Sheikh Molhim Bilal</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1hr64sl5d5g",
+                "type": "text",
+                "d": {
+                  "x": 16,
+                  "y": 5,
+                  "w": 8,
+                  "h": 5
+                },
+                "props": {
+                  "html": "<p class=\"sf-tag\">C</p><h3>Executive Committee</h3><p>Rami Shoukih (President)</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "s10qxlmc9fdx",
+            "theme": "white",
+            "rows": 9,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "bv4ii6x1685",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Contact us</h2><p style=\"text-align:center\">Iowa City Mosque · 1812 W Benton St, Iowa City, IA 52246<br>Phone: (319) 354-6167 · Email: info@iowacitymosque.org</p><p style=\"text-align:center\">For questions, to schedule a visit to the mosque, or to request a guest speaker, please get in touch.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "beybj1ldzc4",
+                "type": "button",
+                "d": {
+                  "x": 7,
+                  "y": 7,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Contact form",
+                  "href": "/contact",
+                  "newTab": false,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b660rc5rudm",
+                "type": "button",
+                "d": {
+                  "x": 12,
+                  "y": 7,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Call (319) 354-6167",
+                  "href": "tel:+13193546167",
+                  "newTab": false,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ]
+          }
+        ],
+        "seoDescription": "About Al-Iman Center of Iowa (Masjid Al-Iman) — mission, activities, history and leadership."
+      },
+      {
+        "id": "pjxyglp1bk7",
+        "title": "Contact",
+        "slug": "contact",
+        "showInNav": true,
+        "sections": [
+          {
+            "id": "s1byajni1vro",
+            "theme": "dark",
+            "rows": 7,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "b10bo8oxfpy",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">Get in touch</span></p><h1 style=\"text-align:center\">Contact Us</h1><p class=\"sf-lead\" style=\"text-align:center\">We’d love to hear from you. Send us a message and we’ll get back to you, inshaAllah.</p>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "s1jd0wh218uv",
+            "theme": "white",
+            "rows": 13,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b30mhku4cjf",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 10,
+                  "h": 13
+                },
+                "props": {
+                  "html": "<p class=\"sf-label\">Visit us</p><h3>Iowa City Mosque</h3><p class=\"sf-facts\" style=\"flex-direction:column;gap:.9em\"><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z\"/><circle cx=\"12\" cy=\"9.5\" r=\"2.5\"/></svg><a href=\"https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246\" target=\"_blank\" rel=\"noopener\">1812 W Benton St, Iowa City, IA 52246</a></span><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A17 17 0 0 1 3 5a2 2 0 0 1 2-2z\"/></svg><a href=\"tel:+13193546167\">(319) 354-6167</a></span><span><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M3 7l9 6 9-6\"/></svg><a href=\"mailto:info@iowacitymosque.org\">info@iowacitymosque.org</a></span></p><p>For questions, to schedule a visit to the mosque, or to request a guest speaker, please complete the form.</p><p><a class=\"sf-more\" href=\"https://maps.google.com/?q=Iowa+City+Mosque+1812+W+Benton+St+Iowa+City+IA+52246\">Get directions <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "dark",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "md"
+                }
+              },
+              {
+                "id": "b1kgby1a1utv",
+                "type": "form",
+                "d": {
+                  "x": 11,
+                  "y": 0,
+                  "w": 13,
+                  "h": 13
+                },
+                "props": {
+                  "title": "Contact form",
+                  "fields": [
+                    {
+                      "label": "First Name",
+                      "type": "text",
+                      "required": true,
+                      "half": true,
+                      "options": ""
+                    },
+                    {
+                      "label": "Last Name",
+                      "type": "text",
+                      "required": true,
+                      "half": true,
+                      "options": ""
+                    },
+                    {
+                      "label": "Email",
+                      "type": "email",
+                      "required": true,
+                      "half": false,
+                      "options": ""
+                    },
+                    {
+                      "label": "Topic",
+                      "type": "select",
+                      "required": false,
+                      "half": false,
+                      "options": "General question, Visit the mosque, Request a guest speaker, Learning about Islam, Volunteering"
+                    },
+                    {
+                      "label": "Message",
+                      "type": "textarea",
+                      "required": true,
+                      "half": false,
+                      "options": ""
+                    }
+                  ],
+                  "submitLabel": "Send message",
+                  "email": "info@iowacitymosque.org",
+                  "action": "",
+                  "successMessage": "Jazakum Allahu khairan! Your message has been prepared — we will get back to you, inshaAllah."
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "s11r9znyuvih",
+            "theme": "light",
+            "rows": 14,
+            "padTop": 0,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b1gc1wbi1lzx",
+                "type": "map",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 24,
+                  "h": 14
+                },
+                "props": {
+                  "address": "Iowa City Mosque, 1812 W Benton St, Iowa City, IA 52246",
+                  "zoom": 15,
+                  "mapType": "roadmap"
+                },
+                "style": {
+                  "radius": 20
+                }
+              }
+            ]
+          }
+        ],
+        "seoDescription": "Contact Iowa City Mosque — address, phone, email and contact form."
+      },
+      {
+        "id": "p1w8kosrgdfr",
+        "title": "Donate",
+        "slug": "donate",
+        "showInNav": false,
+        "sections": [
+          {
+            "id": "s16uefzof3di",
+            "theme": "dark",
+            "rows": 10,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "b20mwd21wlf",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p style=\"text-align:center\"><span class=\"sf-tag\">Sadaqah jariyah</span></p><h1 style=\"text-align:center\">Support your masjid</h1><p class=\"sf-lead\" style=\"text-align:center\">Your donation is tax deductible and, inshaAllah, helps maintain the house of Allah in this world and a house for you in the hereafter.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bupfiwx172p",
+                "type": "button",
+                "d": {
+                  "x": 6,
+                  "y": 8,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Donate with PayPal",
+                  "href": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A7CKKFZ3AGTEL",
+                  "newTab": true,
+                  "variant": "accent",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              },
+              {
+                "id": "b1wqaop81fc5",
+                "type": "button",
+                "d": {
+                  "x": 12,
+                  "y": 8,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Monthly giving",
+                  "href": "#monthly",
+                  "newTab": false,
+                  "variant": "outline",
+                  "size": "md",
+                  "align": "stretch"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "sw1c9ha17vh",
+            "theme": "light",
+            "rows": 14,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b134oyhj1f95",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 3
+                },
+                "props": {
+                  "html": "<h2 style=\"text-align:center\">Ways to give</h2>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b10dvknc1f8l",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 4,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2\"/><path d=\"M2.5 10h19M6.5 15h4\"/></svg></p><p class=\"sf-label\">Online</p><h3>PayPal or card</h3><p>Make a one-time donation securely via PayPal or with a debit/credit card.</p><p><a class=\"sf-more sf-stretch\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A7CKKFZ3AGTEL\">Donate with PayPal <span aria-hidden=\"true\">→</span></a></p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bfupo8k17dx",
+                "type": "text",
+                "d": {
+                  "x": 8,
+                  "y": 4,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M13 2L4 14h7l-1 8 9-12h-7z\"/></svg></p><p class=\"sf-label\">Zelle</p><h3>Zelle</h3><p>Send your donation through Zelle to:</p><p><strong>info@iowacitymosque.org</strong></p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "b1y5n4pl1kxa",
+                "type": "text",
+                "d": {
+                  "x": 16,
+                  "y": 4,
+                  "w": 8,
+                  "h": 10
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 10l9-6 9 6M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 21h18\"/></svg></p><p class=\"sf-label\">Bank</p><h3>Deposit, check or money order</h3><p>Iowa City Mosque General Funds account</p><p><strong>US Bank Account:</strong> 196545693<br><strong>Tax ID:</strong> 42-1521918</p><p>Al-Iman Center of Iowa City Masjid<br>1812 West Benton Street, Iowa City, IA 52246</p>"
+                },
+                "style": {
+                  "theme": "white",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "s19i15su543v",
+            "theme": "white",
+            "rows": 10,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b4w6o3k1553",
+                "type": "text",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 11,
+                  "h": 7
+                },
+                "props": {
+                  "html": "<p id=\"monthly\" class=\"sf-label\">Give monthly</p><h2>Bank monthly auto withdrawal</h2><p>Allah (SWT) loves actions that are consistent, no matter how small. Set up an automatic monthly contribution from your checking account using the Bank Monthly Auto Withdrawal Form.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "bqczsgq1jzq",
+                "type": "text",
+                "d": {
+                  "x": 12,
+                  "y": 0,
+                  "w": 12,
+                  "h": 8
+                },
+                "props": {
+                  "html": "<h3>How to submit the form</h3><ol><li>Send an electronic copy of the completed form to <a href=\"mailto:info@iowacitymosque.org\">info@iowacitymosque.org</a>, <strong>or</strong></li><li>Drop the completed form in the mosque’s donation box, <strong>or</strong></li><li>Mail a hard copy of the form to:<br><strong>Iowa City Mosque, 1812 W Benton St, Iowa City, IA 52246</strong></li></ol>"
+                },
+                "style": {
+                  "theme": "light",
+                  "padding": 32,
+                  "radius": 20,
+                  "shadow": "sm",
+                  "borderWidth": 1,
+                  "borderColor": "color-mix(in srgb, var(--c-dark) 8%, transparent)"
+                }
+              },
+              {
+                "id": "bdj9lgz13x7",
+                "type": "pdf",
+                "d": {
+                  "x": 0,
+                  "y": 8,
+                  "w": 5,
+                  "h": 2
+                },
+                "props": {
+                  "src": "http://tinyurl.com/3z6vhmo",
+                  "title": "Bank Monthly Auto Withdrawal Form",
+                  "display": "button",
+                  "buttonLabel": "Download the form"
+                },
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": "s9nq4p11rpw",
+            "theme": "primary",
+            "rows": 9,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b3rus2wyj1d",
+                "type": "text",
+                "d": {
+                  "x": 3,
+                  "y": 0,
+                  "w": 18,
+                  "h": 6
+                },
+                "props": {
+                  "html": "<p class=\"sf-icon sf-center\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0 1 13 0\"/><path d=\"M16 4.5a3.5 3.5 0 0 1 0 7M18 14a6.5 6.5 0 0 1 3.5 6\"/></svg></p><h2 style=\"text-align:center\">Volunteer your time</h2><p style=\"text-align:center\">If you are unable to donate at this time, please consider volunteering at the Masjid. We are always looking for volunteers to help with our services, especially the Children’s Education Programs and lectures.</p>"
+                },
+                "style": {}
+              },
+              {
+                "id": "b160bnds1lym",
+                "type": "button",
+                "d": {
+                  "x": 9,
+                  "y": 7,
+                  "w": 6,
+                  "h": 2
+                },
+                "props": {
+                  "label": "Get in touch",
+                  "href": "/contact",
+                  "newTab": false,
+                  "variant": "primary",
+                  "size": "md",
+                  "align": "center"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.1
+          }
+        ],
+        "seoDescription": "Donate to Iowa City Mosque via PayPal, Zelle, bank deposit or monthly auto withdrawal."
+      },
+      {
+        "id": "paey39o12p8",
+        "title": "Islamic Resources",
+        "slug": "resources",
+        "showInNav": false,
+        "sections": [
+          {
+            "id": "s1qlu6ai12l9",
+            "theme": "dark",
+            "rows": 2,
+            "padTop": 72,
+            "padBottom": 84,
+            "blocks": [
+              {
+                "id": "b1cuqtu5oddk",
+                "type": "text",
+                "d": {
+                  "x": 4,
+                  "y": 0,
+                  "w": 16,
+                  "h": 3
+                },
+                "props": {
+                  "html": "<h1 style=\"text-align:center\">Islamic Resources</h1>"
+                },
+                "style": {}
+              }
+            ],
+            "pattern": "star8",
+            "patternOpacity": 0.07
+          },
+          {
+            "id": "s4x0526qhao",
+            "theme": "light",
+            "rows": 9,
+            "padTop": 80,
+            "padBottom": 80,
+            "blocks": [
+              {
+                "id": "b15pksw1rkmn",
+                "type": "links",
+                "d": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 24,
+                  "h": 9
+                },
+                "props": {
+                  "layout": "cards",
+                  "columns": 3,
+                  "items": [
+                    {
+                      "title": "The Noble Qur’an",
+                      "url": "http://quran.ksu.edu.sa/index.php",
+                      "description": "Read and listen to the Qur’an with translations and tafsir.",
+                      "newTab": true
+                    },
+                    {
+                      "title": "AbdurRahman.org",
+                      "url": "http://abdurrahman.org/",
+                      "description": "Articles and books based on the Qur’an and Sunnah.",
+                      "newTab": true
+                    },
+                    {
+                      "title": "Al-Ifta’",
+                      "url": "http://www.alifta.net/default.aspx",
+                      "description": "Official fatwas from the Permanent Committee for Scholarly Research and Ifta’.",
+                      "newTab": true
+                    },
+                    {
+                      "title": "Fortress of the Muslim",
+                      "url": "http://muslimfortress.abdurrahman.org/",
+                      "description": "Daily supplications (adhkar) from the Qur’an and Sunnah.",
+                      "newTab": true
+                    },
+                    {
+                      "title": "Sahih al-Bukhari",
+                      "url": "http://www.sahihalbukhari.com/sps/sbk/",
+                      "description": "The authentic hadith collection of Imam al-Bukhari.",
+                      "newTab": true
+                    },
+                    {
+                      "title": "Sahih Muslim",
+                      "url": "http://www.sahihmuslim.com/sps/smm/",
+                      "description": "The authentic hadith collection of Imam Muslim.",
+                      "newTab": true
+                    }
+                  ]
+                },
+                "style": {}
+              }
+            ]
+          }
+        ],
+        "seoDescription": "Authentic Islamic resources: Qur’an, hadith collections, fatwas and daily adhkar."
+      }
+    ],
+    "favicon": "/samples/iowa-city-mosque-logo.png",
+    "lang": "en"
+  },
+  "assets": [
+    {
+      "id": "afsn1ecfo5e",
+      "name": "Screenshot 2026-11-24 at 22-15-48 Fall Break Knowledge Seminar — Detailed Class Schedule - Fall-Break-Schedule-FINAL-18x12-print.pdf.png",
+      "type": "image/png",
+      "path": "assets/afsn1ecfo5e.png"
+    }
+  ]
+}
